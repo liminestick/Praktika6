@@ -1,0 +1,161 @@
+{
+    "statistic": "Data without optimization",
+    "columns": [
+        {
+            "column": "description",
+            "memory_usage_kb": 1074553.5283203125,
+            "memory_usage_percentage": 89.70538895557272,
+            "data_type": "object"
+        },
+        {
+            "column": "url",
+            "memory_usage_kb": 14422.1552734375,
+            "memory_usage_percentage": 1.2039838074923002,
+            "data_type": "object"
+        },
+        {
+            "column": "image_url",
+            "memory_usage_kb": 12076.537109375,
+            "memory_usage_percentage": 1.0081679786825506,
+            "data_type": "object"
+        },
+        {
+            "column": "region_url",
+            "memory_usage_kb": 8357.1806640625,
+            "memory_usage_percentage": 0.6976703554392364,
+            "data_type": "object"
+        },
+        {
+            "column": "posting_date",
+            "memory_usage_kb": 7606.447265625,
+            "memory_usage_percentage": 0.6349979712965452,
+            "data_type": "object"
+        },
+        {
+            "column": "model",
+            "memory_usage_kb": 6323.478515625,
+            "memory_usage_percentage": 0.5278937575897636,
+            "data_type": "object"
+        },
+        {
+            "column": "region",
+            "memory_usage_kb": 6290.5810546875,
+            "memory_usage_percentage": 0.525147426717199,
+            "data_type": "object"
+        },
+        {
+            "column": "transmission",
+            "memory_usage_kb": 5946.833984375,
+            "memory_usage_percentage": 0.49645089012592974,
+            "data_type": "object"
+        },
+        {
+            "column": "manufacturer",
+            "memory_usage_kb": 5611.283203125,
+            "memory_usage_percentage": 0.4684385924105899,
+            "data_type": "object"
+        },
+        {
+            "column": "VIN",
+            "memory_usage_kb": 5596.5830078125,
+            "memory_usage_percentage": 0.46721139739100626,
+            "data_type": "object"
+        },
+        {
+            "column": "title_status",
+            "memory_usage_kb": 5581.8505859375,
+            "memory_usage_percentage": 0.4659815120481883,
+            "data_type": "object"
+        },
+        {
+            "column": "fuel",
+            "memory_usage_kb": 5451.9033203125,
+            "memory_usage_percentage": 0.4551333135179342,
+            "data_type": "object"
+        },
+        {
+            "column": "state",
+            "memory_usage_kb": 5315.15625,
+            "memory_usage_percentage": 0.443717456785238,
+            "data_type": "object"
+        },
+        {
+            "column": "type",
+            "memory_usage_kb": 5186.099609375,
+            "memory_usage_percentage": 0.432943609006187,
+            "data_type": "object"
+        },
+        {
+            "column": "cylinders",
+            "memory_usage_kb": 5068.48828125,
+            "memory_usage_percentage": 0.42312523360005305,
+            "data_type": "object"
+        },
+        {
+            "column": "paint_color",
+            "memory_usage_kb": 4936.3779296875,
+            "memory_usage_percentage": 0.4120964573133134,
+            "data_type": "object"
+        },
+        {
+            "column": "condition",
+            "memory_usage_kb": 4840.3251953125,
+            "memory_usage_percentage": 0.40407782662599484,
+            "data_type": "object"
+        },
+        {
+            "column": "drive",
+            "memory_usage_kb": 4782.01171875,
+            "memory_usage_percentage": 0.3992097274959612,
+            "data_type": "object"
+        },
+        {
+            "column": "size",
+            "memory_usage_kb": 4086.337890625,
+            "memory_usage_percentage": 0.34113380136158356,
+            "data_type": "object"
+        },
+        {
+            "column": "id",
+            "memory_usage_kb": 833.75,
+            "memory_usage_percentage": 0.06960273831925302,
+            "data_type": "int64"
+        },
+        {
+            "column": "price",
+            "memory_usage_kb": 833.75,
+            "memory_usage_percentage": 0.06960273831925302,
+            "data_type": "int64"
+        },
+        {
+            "column": "year",
+            "memory_usage_kb": 833.75,
+            "memory_usage_percentage": 0.06960273831925302,
+            "data_type": "float64"
+        },
+        {
+            "column": "odometer",
+            "memory_usage_kb": 833.75,
+            "memory_usage_percentage": 0.06960273831925302,
+            "data_type": "float64"
+        },
+        {
+            "column": "county",
+            "memory_usage_kb": 833.75,
+            "memory_usage_percentage": 0.06960273831925302,
+            "data_type": "float64"
+        },
+        {
+            "column": "lat",
+            "memory_usage_kb": 833.75,
+            "memory_usage_percentage": 0.06960273831925302,
+            "data_type": "float64"
+        },
+        {
+            "column": "long",
+            "memory_usage_kb": 833.75,
+            "memory_usage_percentage": 0.06960273831925302,
+            "data_type": "float64"
+        }
+    ]
+}
